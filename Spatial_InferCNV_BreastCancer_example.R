@@ -1,3 +1,6 @@
+#SpatialnferCNV, followed https://aerickso.github.io/SpatialInferCNV/
+#https://github.com/aerickso/SpatialInferCNV
+
 install.packages("devtools")
 library(devtools)
 install.packages("usethis",force = TRUE)
