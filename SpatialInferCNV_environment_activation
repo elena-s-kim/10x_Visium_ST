@@ -1,0 +1,27 @@
+#log from Terminal on how create and activate the SpatialInferCNV env using conda
+conda env create -f environment.yml
+Retrieving notices: ...working... done
+
+
+(base) HSIT-C02YN1XRJV40:~ elena_s_kim$ conda env create -f environment.yml
+Channels:
+ - conda-forge
+ - bioconda
+ - defaults
+Platform: osx-64
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+Downloading and Extracting Packages:
+                                                                                
+Preparing transaction: done                                                     
+Verifying transaction: done                                                     
+Executing transaction: done                                                     
+#                                                                               
+# To activate this environment, use                                             
+#                                                                               
+#     $ conda activate SpatialInferCNV                                          
+#                                                                               
+# To deactivate an active environment, use                                      
+#                                                                               
+#     $ conda deactivate                       
